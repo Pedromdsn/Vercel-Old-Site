@@ -6,7 +6,7 @@ In the construction of the site using [Sass](https://sass-lang.com/).
 ## Quality:
 
 <div align="center">
-<img width="80%" src="https://media.discordapp.net/attachments/657744571395997719/936317005080977518/unknown.png?width=1308&height=663">
+<img width="80%" src="https://media.discordapp.net/attachments/657744571395997719/936321349658492988/unknown.png?width=1052&height=663">
 <br>
  1) Benchmark test using a share host
 </div>
