@@ -1,32 +1,26 @@
-<h1 align="center">
-UI Clone #17 - Vercel (Homepage)
-</h1>
+# vercel old site
 
-<p align="center"><a href="https://vercel.com">Vercel Homepage</a> UI clone for study purposes.</p>
-<p align="center">Click <a href="https://www.youtube.com/playlist?list=PL85ITvJ7FLohTZv9cC5-PrZ39Q3cugWqp">here</a> to the YouTube playlist.</p>
+## A portfolio site, made using the latest technologies.
 
-<p align="center">
-  <a href="https://github.com/rocketseat-content/youtube-clone-vercel-homepage/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/rocketseat-content/youtube-clone-vercel-homepage?color=%236633cc&logoColor=%236633cc&style=flat" alt="Contributors">
-  </a>
-</p>
+In the construction of the site using [Sass](https://sass-lang.com/).
+## Quality:
 
-<hr>
+<div align="center">
+<img width="80%" src="https://media.discordapp.net/attachments/657744571395997719/936317005080977518/unknown.png?width=1308&height=663">
+<br>
+ 1) Benchmark test using a share host
+</div>
 
-## Participants
+## Preview:
 
-[<img src="https://avatars3.githubusercontent.com/u/10366880?s=460&v=4" width="75px;"/>](https://github.com/guilhermerodz)
+<div align="center">
+<img src="https://media.discordapp.net/attachments/657744571395997719/936317005080977518/unknown.png?width=1308&height=663">
+<br>
+1) You can check the website <a href="https://pedromdsn.com">here</a>
+</div>
 
-[Guilherme Rodz](https://github.com/guilhermerodz)
+## Contact
 
-## Resources
+Discord: !   Pedromdsn#3873
 
-- [x] HTML, SCSS, JS
-- [x] SVG Images
-
-## Start Dev Environment for VSCode
-
-1. Open project folder in `VSCode`
-2. Install `Live Server` and `Live Sass Compiler` extension
-3. Right click `index.html` > `Open with Live Server`
-4. Access the **generated address** in your browser 🚀
+Site: https://pedromdsn.com

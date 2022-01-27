@@ -30,6 +30,10 @@ header {
         margin-left: 1.2rem;
       }
     }
+
+    @media (max-width: 767px) {
+      display: none;
+    }
   }
 
   .right {
@@ -41,6 +45,8 @@ header {
     .conf {
       height: 3.2rem;
       position: relative;
+
+      cursor: pointer;
 
       span {
         position: absolute;
@@ -54,9 +60,47 @@ header {
       }
     }
     .avatar {
+      cursor: pointer;
       margin-left: 0.8rem;
       width: 3.2rem;
       height: 3.2rem;
+    }
+
+    @media (max-width: 767px) {
+      display: none;
+    }
+  }
+
+  .burguer {
+    display: inline-block;
+    cursor: pointer;
+
+    div {
+      width: 35px;
+      height: 5px;
+      background-color: var(--white);
+      margin: 6px 0;
+      transition: 0.4s;
+    }
+
+    @media (min-width: 768px) {
+      display: none;
+    }
+  }
+
+  .change {
+    div:nth-child(1) {
+      -webkit-transform: rotate(-45deg) translate(-9px, 6px);
+      transform: rotate(-45deg) translate(-9px, 6px);
+    }
+
+    div:nth-child(2) {
+      opacity: 0;
+    }
+
+    div:nth-child(3) {
+      -webkit-transform: rotate(45deg) translate(-8px, -8px);
+      transform: rotate(45deg) translate(-8px, -8px);
     }
   }
 }
